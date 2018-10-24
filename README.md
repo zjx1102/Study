@@ -1,2 +1,2 @@
-# StudyPython
-python练习
+# Study
+
